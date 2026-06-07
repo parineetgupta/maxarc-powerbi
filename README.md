@@ -94,13 +94,13 @@ This dashboard demonstrates practical Business Intelligence and Data Analytics s
 
 ## 👨‍💻 Author
 
-**Parveen**
+**Parineet Gupta**
 
 Data Analytics Enthusiast
 
-LinkedIn: YOUR_LINKEDIN_URL
+LinkedIn: https://www.linkedin.com/in/parineetgupta
 
-GitHub: YOUR_GITHUB_URL
+
 
 ---
 
