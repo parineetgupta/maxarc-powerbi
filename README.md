@@ -67,7 +67,11 @@ The dashboard transforms raw operational data into actionable business insights 
 
 ### Executive Dashboard
 
-<img width="360" height="360" alt="UberX_v1" src="https://github.com/user-attachments/assets/d22985a1-abf2-4f41-9535-65b488a20bd7" />
+<img width="1598" height="903" alt="WhatsApp Image 2026-06-07 at 4 37 44 PM" src="https://github.com/user-attachments/assets/b7cf4938-cd0e-48de-a77b-1405260f116b" />
+<img width="1594" height="895" alt="WhatsApp Image 2026-06-07 at 4 37 44 PM (2)" src="https://github.com/user-attachments/assets/33afb4b8-d543-48ba-bcbd-fcff99c8b20b" />
+<img width="1590" height="892" alt="WhatsApp Image 2026-06-07 at 4 37 44 PM (1)" src="https://github.com/user-attachments/assets/8c2b745a-aef5-4e7f-bb0e-1b7b0ba46a5d" />
+
+
 
 
 ---
