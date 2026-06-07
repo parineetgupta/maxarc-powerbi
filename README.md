@@ -67,7 +67,8 @@ The dashboard transforms raw operational data into actionable business insights 
 
 ### Executive Dashboard
 
-![Dashboard Screenshot](screenshots/dashboard-overview.png)
+<img width="360" height="360" alt="UberX_v1" src="https://github.com/user-attachments/assets/d22985a1-abf2-4f41-9535-65b488a20bd7" />
+
 
 ---
 
